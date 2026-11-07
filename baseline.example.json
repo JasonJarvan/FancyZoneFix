@@ -1,0 +1,24 @@
+{
+  "capturedAt": "2026-01-01T00:00:00",
+  "powerToysVersion": "0.102.0.0",
+  "monitorNumbers": [1, 2, 3, 4, 5, 6, 7, 8],
+  "monitors": [
+    {
+      "id": "DELA0B2-2560-landscape",
+      "monitor": "DELA0B2",
+      "instances": ["4&example&0&UID1000"],
+      "width": 2560,
+      "orientation": "landscape",
+      "serial": "0",
+      "virtualDesktop": "{00000000-0000-0000-0000-000000000000}",
+      "layout": {
+        "uuid": "{00000000-0000-0000-0000-000000000001}",
+        "type": "custom",
+        "show-spacing": false,
+        "spacing": 16,
+        "zone-count": 2,
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}

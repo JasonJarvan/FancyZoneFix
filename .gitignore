@@ -1,0 +1,9 @@
+logs/
+state.json
+baseline.json
+*.flag
+*.pid
+STOP-WATCHER
+baseline/
+.settings.reload.tmp
+.applied.reload.tmp
